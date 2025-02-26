@@ -1,16 +1,27 @@
-## Hi there 👋
+# Lucas Lopes
 
-<!--
-**L-Lukke/l-lukke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity | Malware Analysis | Penetration Testing | Digital Forensics
 
-Here are some ideas to get you started:
+I'm a Computer Science undergraduate at PUC Minas, specializing in cybersecurity. My focus areas include malware analysis, penetration testing, and digital forensics. I enjoy exploring vulnerabilities, securing systems, and developing tools to enhance cybersecurity practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Skills
+
+- **Programming Languages**: Java, C, Python, Assembly
+- **Certifications**: CCNA, Cisco Endpoint Security, CompTIA Security+ (In Progress)
+- **Languages**: Portuguese (Native), English (Fluent), Spanish (Intermediate)
+
+---
+
+### Contact
+
+- **Email**: [lucaslopes.cyber@gmail.com](mailto:lucaslopes.cyber@gmail.com)
+- **LinkedIn**: [Lucas Lopes](https://www.linkedin.com/in/lucas-lopes-2324552a4/)
+- **Blog**: [L-Lukke]([https://github.com/L-Lukke](https://l-lukke.github.io/llukke.github.io/))
+
+---
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=L-Lukke&show_icons=true&theme=radical)
