@@ -18,10 +18,4 @@ I'm a Computer Science undergraduate at PUC Minas, specializing in cybersecurity
 
 - **Email**: [lucaslopes.cyber@gmail.com](mailto:lucaslopes.cyber@gmail.com)
 - **LinkedIn**: [Lucas Lopes](https://www.linkedin.com/in/lucas-lopes-2324552a4/)
-- **Blog**: [L-Lukke]([https://github.com/L-Lukke](https://l-lukke.github.io/llukke.github.io/))
-
----
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=L-Lukke&show_icons=true&theme=radical)
+- **Blog**: [L-Lukke](https://l-lukke.github.io/llukke.github.io)
