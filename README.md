@@ -9,7 +9,7 @@ I'm a Computer Science undergraduate at PUC Minas, specializing in cybersecurity
 ### Skills
 
 - **Programming Languages**: Java, C, Python, Assembly
-- **Certifications**: CCNA, Cisco Endpoint Security, (In Progress) CompTIA Security+
+- **Certifications**: CCNA, Cisco Endpoint Security, CompTIA Security+ (In Progress)
 - **Languages**: Portuguese (Native), English (Fluent), Spanish (Intermediate)
 
 ---
@@ -17,5 +17,5 @@ I'm a Computer Science undergraduate at PUC Minas, specializing in cybersecurity
 ### Contact
 
 - **Email**: [lucaslopes.cyber@gmail.com](mailto:lucaslopes.cyber@gmail.com)
-- **LinkedIn**: [Lucas Lopes](https://www.linkedin.com/in/lucas-lopes-2324552a4/)
-- **Blog**: [y0kai](https://l-lukke.github.io/llukke.github.io)
+- **LinkedIn**: [Lucas Lopes](https://www.linkedin.com/in/lucas-a-lopes/)
+- **Blog**: [personal blog](https://l-lukke.github.io/)
