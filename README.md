@@ -8,7 +8,7 @@ I'm a Computer Science undergraduate at PUC Minas, specializing in cybersecurity
 
 ### Skills
 
-- **Programming Languages**: Java, C, Python, Assembly
+- **Programming Languages**: Rust, Java, C, Python, Assembly
 - **Certifications**: CCNA, Cisco Endpoint Security, CompTIA Security+ (In Progress)
 - **Languages**: Portuguese (Native), English (Fluent), Spanish (Intermediate)
 
